@@ -1,0 +1,34 @@
+/* we are going to be styling our website
+
+declaration block:
+
+Selector{
+    
+    property: value;
+}
+*/
+body{
+    background-color: rgb(82, 65, 176);
+    color: white;
+}
+
+nav{
+    height: 600px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+#pic_downloads{
+    margin-right: 200px;
+}
+
+h1{
+    text-align: center;
+}
